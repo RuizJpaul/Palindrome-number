@@ -1,0 +1,8 @@
+C:\Users\PC\Desktop\Exercise1\bin\Debug\Exercise1.exe.config
+C:\Users\PC\Desktop\Exercise1\bin\Debug\Exercise1.exe
+C:\Users\PC\Desktop\Exercise1\bin\Debug\Exercise1.pdb
+C:\Users\PC\Desktop\Exercise1\obj\Debug\Exercise1.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Exercise1\obj\Debug\Exercise1.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\Exercise1\obj\Debug\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Exercise1\obj\Debug\Exercise1.exe
+C:\Users\PC\Desktop\Exercise1\obj\Debug\Exercise1.pdb
